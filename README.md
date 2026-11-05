@@ -1,2 +1,2 @@
 # Projet QA Boutique
-Documents de test de l'application Boutique.
+ Documents de test fonctionnel de la Boutique.
